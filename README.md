@@ -85,7 +85,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Browser-এ http://localhost:8501 খুলবে  
+Browser-এ http://localhost:8501   
 Type a few sentences about yourself, pick a model → get instant personality prediction  
 Works offline once models are loaded  
 
