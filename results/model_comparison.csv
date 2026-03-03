@@ -1,0 +1,7 @@
+,Hamming Loss,Macro F1,Micro F1,Train Time (s)
+KNN,0.4958,0.5349,0.5378,0.02
+Logistic Regression,0.499,0.5261,0.5301,0.16
+Decision Tree,0.499,0.5261,0.5301,0.05
+Linear SVM,0.499,0.5261,0.5301,0.07
+Random Forest,0.499,0.5261,0.5301,3.04
+Naive Bayes,0.4991,0.505,0.5104,0.03
